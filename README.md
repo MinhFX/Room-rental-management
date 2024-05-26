@@ -16,3 +16,6 @@
 ![333797361-ee8e9180-22d6-43fe-939e-77ba3816394d](https://github.com/MinhFX/Room-rental-management/assets/146899219/2c34a084-6945-4904-9e77-3a59aaf89243)
 
 ![333797496-3b178250-b91d-4eb3-855b-22634bda9430](https://github.com/MinhFX/Room-rental-management/assets/146899219/c61ed712-70fb-42fc-a80a-5e533bd80e24)
+
+# About roon rental management
+Software for rental room management with features such as logging in, adding rooms, viewing invoices and room members each month...Basic functions of CRUD
